@@ -14,7 +14,6 @@ info = {
 #socket客户端
 def socket_client(user_pass_li):
     # 服务器地址
-    # ip = '139.199.112.37'
     ip = '127.0.0.1'
     # 端口
     port = 9999
